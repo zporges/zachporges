@@ -1,0 +1,68 @@
+body {
+	background-color: #294F64;
+	color: #333;
+	font-family: 'Pontano Sans', helvetica, sans-serif;
+}
+
+#allcontent {
+	width: 670px;
+	margin: auto;
+	
+}
+
+.bigleft, .smallleft, .bigright, .smallright {
+	border: solid 2px #333;
+	padding: 10px;
+	margin: 0 0 20px;
+	height: 120px;
+	border-radius: 15px;
+	background-color: #B0CBD9;
+	display: table;
+	position: static;
+}
+
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+}
+
+.top {
+	margin-top: 20px;
+}
+
+.bigleft, .smallleft {
+	text-align: left;
+}
+
+.bigright, .smallright {
+	float: right;
+	text-align: right;
+}
+
+.bigright, .bigleft {
+	width: 400px;
+}
+
+.smallright, .smallleft {
+	width: 200px;
+}
+
+.clearboth {
+	clear: both;
+}
+
+a:link, a:visited {
+	color: #294F64;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	padding: 0;
+	margin: 0;
+}

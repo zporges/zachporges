@@ -1,0 +1,36 @@
+#research {
+	background-color: #A7D1D1;
+	border-style: dashed;
+	border-color: #333;
+	border-width: 2px;
+	border-bottom-color: #A7D1D1;
+}
+
+#research a:link {
+	color: #000;
+}
+
+#research a:visited {
+	color: #000;
+}
+
+#screenshot img {
+	padding-top: 20px;
+}
+
+#rightcol {
+	font-size: small;
+	width: 500px;
+	line-height: 105%;
+	padding-right:5px;
+}
+
+
+#maincol {
+	width: 250px;
+	padding-bottom:20px;
+}
+
+#awards {
+	margin-top:98px;
+}

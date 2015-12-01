@@ -1,0 +1,113 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	line-height: 115%
+}
+
+#banner {
+	background-color: #107a42;
+	height: 110px;
+}
+
+#rightcol {
+ 	float: right;
+	width: 250px;
+	
+}
+
+.col {
+	padding: 10px 10px;
+	margin: 10px 0px;
+}
+
+#maincol {
+	width:500px;
+}
+
+body {
+	width: 800px;
+	margin: auto;
+	background-color: #107a42;
+	font-family: Verdana, geneva, arial, sans-serif;
+	font-size: medium;
+}
+
+#footer {
+	text-align: center;
+	margin: 10px 0px;
+	padding 10px;
+	font-size: small;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	background-color: #A7D1D1;
+	border-style: dashed;
+	border-color: #333;
+	border-width: 2px;
+}
+
+.nav {
+	color: #FFF;
+	width: 125px;
+	padding: 10px 0px;
+	position: relative;
+	top: 19px;
+}
+
+.nav a:link {
+	color: white;
+}
+.nav a:visited {
+	color: white;
+}
+.nav a:hover {
+	background-color: #A7D1D1;
+	color: #000;
+}
+
+#home {
+	padding: 10px 58px;
+	background-color: #107a42;
+}
+
+#academics {
+	padding: 10px 38px;
+	background-color: #107a42;
+}
+
+#research {
+	padding: 10px 44px;
+	background-color: #107a42;
+}
+
+#content {
+	background-color: #A7D1D1;
+	border-style: dashed;
+	border-color: #333;
+	border-width: 2px;
+	margin:0px auto;
+}
+
+a:link {
+	color: #107a42;
+}
+
+a:visited {
+	color: #004787;
+}
+
+a:hover {
+	background-color: #B6FF0C;
+}
+
+ul {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-size: 150%
+}
+
+h3 {
+	font-size: medium;
+}

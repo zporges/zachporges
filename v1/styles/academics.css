@@ -1,0 +1,36 @@
+#academics {
+	background-color: #A7D1D1;
+	border-style: dashed;
+	border-color: #333;
+	border-width: 2px;
+	border-bottom-color: #A7D1D1;
+}
+
+#academics a:link {
+	color: #000;
+}
+
+#academics a:visited {
+	color: #000;
+}
+
+#courses {
+	font-size: small;
+}
+
+#rightcol {
+	margin-top: 50px;
+	font-size: small;
+}
+
+#stats {
+	margin-top: 8px;
+}
+
+#beginlist {
+	margin-top: 5px;
+}
+
+ul {
+	font-size: small;
+}
