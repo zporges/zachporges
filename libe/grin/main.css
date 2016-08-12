@@ -1,0 +1,48 @@
+body{
+		background-color: rgba(33,246,13,0.66); 
+		color: black; font-family: "Helvetica Neue",Helvetica, sans-serif;
+		}
+h1 {
+		font-size: 250%; 
+		color: red;
+		text-align: center;
+		}
+		
+
+a:{
+	
+}
+#mainpage { 
+	color: blue;
+	
+	}
+#tech{
+	font-size: 140%
+}
+
+#techpic{
+	text-align: center;
+	margin: 44px 86px 86px 86px;
+}
+
+#packs {
+	text-align: center
+	
+}
+
+#modpack{
+	border-width: medium;
+	border-color: blue;
+	border-style:groove;
+	background-color: #fd9d00;
+	width: 50%;
+	margin: auto
+	 
+	
+     
+}
+
+#techmod{
+	font-size: 210%
+	
+}

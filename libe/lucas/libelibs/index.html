@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<title>LIBE Libs</title>
+		<link rel = "stylesheet" href = "main.css">
+	</head>
+	<body>
+		<h1>LIBE Libs</h1>
+		<form>
+			<label>Man's name</label>
+			<input type = "text" id = "formName" />
+			<br /><br />
+			<label>Place</label>
+			<input type = "text" id = "formPlace" />
+			<br /><br />
+			<label>Activity</label>
+			<input type = "text" id = "formActivity1" />
+			<br /><br />
+			<label>Activity</label>
+			<input type = "text" id = "formActivity2" />
+			<br /><br />
+			<label>Food</label>
+			<br>
+			<input type="radio" name = "food" id="food1" value="Chicken Patties">Chicken Patties<br>
+			<input type="radio" name = "food" id="food2" value="Grilled Cheese">Grilled Cheese<br>
+			<input type="radio" name = "food" id="food3" value="Chicken Patties">Cookout<br>
+			<input type="radio" name = "food" id="food4" value="Grilled Cheese">Cran-Apple Turkey Wraps<br>
+			<button id = "submit">Show Story</button>
+		</form>
+		
+		<p id="story" class = "invisible">
+			There once was a man named <span id = "storyName"></span>. He really liked <span id = "storyPlace"></span>. His favorite activities were <span id = "storyActivity1"></span> and <span id = "storyActivity2"></span>. His favorite food was <span id = "storyFood"></span>. 
+		</p>
+		
+		<p id = "error" class = "invisible">
+			Please answer all of the questions!
+		</p>
+		
+		<script src="script.js"></script>
+	</body>
+</html>

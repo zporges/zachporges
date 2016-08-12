@@ -1,0 +1,44 @@
+body {
+		background-color: #F26900;
+		color: #0B015B;
+		font-family: "Arial serif", Quicksand, serif;
+}
+
+h1 {
+		font-family: impact;
+		font-size: 400%;
+		text-align: center;
+		margin-bottom: 0;
+}
+
+.gobearsgo {
+	float: right;
+}
+
+#teamphoto {
+	width: 45%;
+}
+
+#teamlogo {
+	width: 45%;
+	float: right;
+}
+
+#max {
+	width: 50%;
+}
+
+#jonah {
+	width: 50%;
+	float: right;
+	margin-top: 0;
+}
+
+#bears, #max, #jonah, #teamlogo, #teamphoto {
+	text-align: center;
+}
+
+a:link, a:visited {
+	color:#0B015B}
+a:hover {
+	color:#ff8d00	}

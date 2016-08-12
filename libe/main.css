@@ -1,0 +1,29 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	color: #101110;
+	background-color: #0b3a0e;
+}
+
+#wrapper {
+	background-color: #ebff94;
+	width: 80%;
+	padding: 1% 2% 2%;
+	margin: auto;
+	overflow: auto;
+}
+
+a {
+	color: #0b3a0e;
+}
+
+#left, #right {
+	width: 40%;
+}
+
+#right {
+	float: right;
+}
+
+#right p {
+	margin-top: 0;
+}

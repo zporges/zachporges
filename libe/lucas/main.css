@@ -1,0 +1,24 @@
+body {
+	color:#e29403;
+	background-color:green;
+	font-family: "Arial Black" Arial, sans-serif; 	
+}
+h1 {font-size: 200%
+}
+h1{font-style: italic}
+h3{font-size: 150% }
+h3{font-style: italic}
+#nav {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;}
+#nav li {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.question {
+	font-style: italic;
+	font-size: 150%;
+}
+.answer {font-size: 150%}
