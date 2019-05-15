@@ -59,10 +59,10 @@ h1 {
     border-top: 10px solid #1865C9; } }
 @media screen and (min-width: 701px) and (max-width: 1350px) {
   .content {
-    width: 28%; }
+    width: 32%; }
 
   .content:nth-child(4n+2), .content:nth-child(4n+3) {
-    width: 54%; }
+    width: 50%; }
 
   .content:nth-child(odd) {
     margin-left: 0; }
